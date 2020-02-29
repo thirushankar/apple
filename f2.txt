@@ -1,2 +1,0 @@
-f2 content sample
-f2 new item added in dev branch
